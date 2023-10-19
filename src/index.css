@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Caprasimo&family=Instrument+Serif&family=Kaushan+Script&family=Lemonada:wght@700&family=Lilita+One&family=Oswald&family=Satisfy&family=Stick+No+Bills:wght@200;600;800&family=Tilt+Warp&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
 }
